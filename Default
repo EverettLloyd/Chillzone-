@@ -1,0 +1,13 @@
+{
+    "block_domain": "geosite:category-ads-all\ndomain:appcenter.ms\ndomain:firebase.io\ndomain:crashlytics.com",
+    "custom": "{\"rules\":[{\"outbound\":\"proxy\",\"process_name\":[\"Discord.exe\"]}]}",
+    "def_outbound": "bypass",
+    "direct_dns": "localhost",
+    "direct_ip": "geoip:ru\ngeoip:private",
+    "dns_final_out": "proxy",
+    "dns_routing": true,
+    "proxy_domain": "domain:youtube.com\ndomain:googlevideo.com\ndomain:gstatic.com\ndomain:ytimg.com\ndomain:rutracker.org\ndomain:x.com\ndomain:twitter.com\ndomain:instagram.com\ndomain:twimg.com\ndomain:t.co\ndomain:cdinstagram.com\ndomain:ntc.party\ndomain:discord.com\ndomain:discord.gg\ndomain:discordapp.com\ndomain:discordapp.net\ndomain:discord.media\ndomain:googleapis.com",
+    "remote_dns": "https://8.8.8.8/dns-query",
+    "sniffing_mode": 1,
+    "use_dns_object": false
+}
