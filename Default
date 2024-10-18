@@ -6,7 +6,7 @@
     "direct_ip": "geoip:ru\ngeoip:private",
     "dns_final_out": "proxy",
     "dns_routing": true,
-    "proxy_domain": "domain:youtube.com\ndomain:googlevideo.com\ndomain:gstatic.com\ndomain:ytimg.com\ndomain:rutracker.org\ndomain:x.com\ndomain:twitter.com\ndomain:instagram.com\ndomain:twimg.com\ndomain:t.co\ndomain:cdinstagram.com\ndomain:ntc.party\ndomain:discord.com\ndomain:discord.gg\ndomain:discordapp.com\ndomain:discordapp.net\ndomain:discord.media\ndomain:googleapis.com",
+    "proxy_domain": "domain:youtube.com\ndomain:googlevideo.com\ndomain:gstatic.com\ndomain:ytimg.com\ndomain:rutracker.org\ndomain:x.com\ndomain:twitter.com\ndomain:instagram.com\ndomain:twimg.com\ndomain:t.co\ndomain:cdinstagram.com\ndomain:ntc.party\ndomain:discord.com\ndomain:discord.gg\ndomain:discordapp.com\ndomain:discordapp.net\ndomain:discord.media\ndomain:googleapis.com\ndomain:chatgpt.com\ndomain:twitch.tv",
     "remote_dns": "https://8.8.8.8/dns-query",
     "sniffing_mode": 1,
     "use_dns_object": false
